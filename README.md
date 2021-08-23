@@ -1,2 +1,2 @@
 # HM5
-CSC 103 Project
+Fifth (and final) major project for my Introduction to Computing course.
