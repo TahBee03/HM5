@@ -1,6 +1,6 @@
 /*
 NAME: Talike Bennett
-EMPLID: 23778852
+HM5, Part 1, Header File (ArrayOutOfRange)
 */
 
 #ifndef ARRAY_OUT_OF_RANGE
