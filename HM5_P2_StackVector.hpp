@@ -1,6 +1,6 @@
 /*
 NAME: Talike Bennett
-EMPLID: 23778852
+HM5, Part 2, Header File (StackVector)
 */
 
 #ifndef STACK_VECTOR
